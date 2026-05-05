@@ -3,7 +3,7 @@
 This repository contains the complete solution for the Offroad Segmentation Hackathon. Our goal was to develop a robust model capable of segmenting complex offroad terrains into 10 distinct categories.
 
 ## 🏆 Key Achievements
-- **Mean IoU:** 0.8910260052906603 (Validated on 317 samples)
+- **Mean IoU:** 0.891 (Validated on 317 samples)
 - **Model:** DeepLabV3+ with ResNet-50 backbone
 - **Efficiency:** Optimized for real-time inference on edge devices (tested on MPS/CPU)
 
